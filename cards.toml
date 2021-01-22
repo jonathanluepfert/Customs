@@ -1,0 +1,25 @@
+[card.honest]
+id = 00000001
+name = "Honest (AI)"
+attribute = "light"
+level = 4
+type = "monster effect"
+race = "fairy"
+effect = '''
+Cannot be Normal Summoned/Set. During the Damage Step, when a LIGHT Monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.'''
+atk = 1100	
+def = 1900
+
+[card.ryko]
+id=00000002
+name = "Ryko, Lightsworn Hunter (AI)"
+attribute= "light"
+level= 2
+type ="monster effect"
+race = "beast"
+effect= '''
+FLIP: Apply these effects (simultaneously).
+● You can destroy 1 card your opponent controls.
+● Send the top 3 cards of your Deck to the GY.'''
+atk = 200
+def = 100
