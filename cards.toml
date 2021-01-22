@@ -18,6 +18,7 @@ level= 2
 type ="monster effect"
 race = "beast"
 effect= '''
+If this card is Normal Summoned: Change it to face-down Defense Position.
 FLIP: Apply these effects (simultaneously).
 ● You can destroy 1 card your opponent controls.
 ● Send the top 3 cards of your Deck to the GY.'''
